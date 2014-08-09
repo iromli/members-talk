@@ -6,8 +6,8 @@
 The State of members.python.or.id
 =================================
 
-| Isman Firmansyah (@iromli)
 | Akbar Gumbira (@akbargumbira)
+| Isman Firmansyah (@iromli)
 
 Did You Know?
 =============
