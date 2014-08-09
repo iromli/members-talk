@@ -1,0 +1,2 @@
+hieroglyph==0.6.5
+livereload==2.2.1

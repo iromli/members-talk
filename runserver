@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+import livereload
+
+
+server = livereload.Server()
+server.watch("*.rst", livereload.shell("make slides"))
+server.watch("*/*.rst", livereload.shell("make slides"))
+server.watch("conf.py", livereload.shell("make slides"))
+server.serve(root="./_build/slides")
