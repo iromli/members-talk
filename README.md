@@ -2,6 +2,7 @@ The State of members.python.or.id
 =================================
 
 A brief introduction to https://github.com/id-python/members project.
+Slides are powered by http://hieroglyph.readthedocs.org/.
 
 Install
 -------
