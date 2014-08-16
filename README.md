@@ -14,6 +14,6 @@ Preview
 
 Run a development server to see the generated slides:
 
-    ./runserver
+    make clean && make slides && ./runserver
 
 Afterwards, go to http://localhost:5500.
