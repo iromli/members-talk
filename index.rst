@@ -67,7 +67,7 @@ Current State
 As per August 23rd, 2014:
 
 * Hosting provided by Fahri Reza (@dozymoe)
-* Basic functionality: add/edit/delete user
+* Basic functionality: add, edit, delete user
 * Mailer problem
 
   * might be detected as spam
@@ -78,13 +78,13 @@ The Future
 
 * Basic functionality:
 
-  * add/edit/delete user's projects
+  * add, edit, delete user's projects
   * avatars
-  * tags / specialization
+  * tags/specialization
 
 * Advanced features:
 
-  * search users or projects
+  * search users and projects
 
 * Marketplace e.g. https://djangogigs.com/ (?)
 
@@ -94,14 +94,13 @@ Technical Stuff
 ===============
 
 Help Us, Please!
-========
+================
 
 * Spread the words
 * Feedback
 * Donate — http://www.python.or.id/p/donasi.html
-* Submit bugs report
-* Submit bugs fixes (Pull Request are welcome)
-* New features (Pull Request are welcome)
+* Submit bugs reports and fixes (GitHub PR)
+* New features (GitHub PR)
 * Code sprint
 
 Thanks!
@@ -109,5 +108,5 @@ Thanks!
 
 Questions?
 
-| Akbar Gumbira (@akbargumbira)
-| Isman Firmansyah (@iromli)
+| @akbargumbira
+| @iromli
