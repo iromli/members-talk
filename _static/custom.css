@@ -1,0 +1,13 @@
+a {
+    text-decoration: none;
+}
+
+blockquote {
+    padding-left: 30px;
+    border-left: solid 10px #EEE;
+    font-style: italic;
+}
+
+ul {
+    margin-top: 20px;
+}
