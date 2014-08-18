@@ -21,14 +21,14 @@ Did You Know?
 It's Open Source!
 =================
 
-Forked from `github.com/timlinux/flask_user_map`_.
+Forked from `github.com/kartoza/flask_user_map`_.
 
 * @timlinux
 * @akbargumbira
 
 Development at `github.com/id-python/members`_.
 
-.. _github.com/timlinux/flask_user_map: https://github.com/timlinux/flask_user_map
+.. _github.com/kartoza/flask_user_map: https://github.com/kartoza/flask_user_map
 .. _github.com/id-python/members: https://github.com/id-python/members
 
 Goals
