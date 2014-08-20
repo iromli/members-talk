@@ -90,8 +90,12 @@ The Future
 
 * Et Cetera™
 
-Technical Stuff
+The Tech Stack
 ===============
+
+.. figure:: /_static/tech_stack.png
+   :scale: 130 %
+   :align: center
 
 Help Us, Please!
 ========
