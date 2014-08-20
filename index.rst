@@ -41,7 +41,7 @@ Quotes from Zaki Akhmad (@za):
     Lalu, bagaimana jika bisa dilihat dalam peta? Tentunya akan lebih menarik. Hal ini bisa membuat interaksi antar Pythonista Indonesia lebih baik. Termasuk jika ada pemula yang ingin belajar.
 
 Goals (1)
-=========
+---------
 
 | Web-based interface for `github.com/id-python/direktori`_.
 
@@ -50,14 +50,14 @@ Goals (1)
 .. _github.com/id-python/direktori: https://github.com/id-python/direktori
 
 Goals (2)
-=========
+---------
 
 | Interaction — local/regional meetups, social media, etc.
 
 .. figure:: /_static/meetup.png
 
 Goals (3)
-=========
+---------
 
 See **The Future** section!
 
