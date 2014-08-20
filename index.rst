@@ -93,6 +93,29 @@ The Future
 Technical Stuff
 ===============
 
+* Flask
+* Leaflet
+* SQLAlchemy
+
+Technical Stuff (1)
+-------------------
+
+TBD
+
+Technical Stuff (2)
+-------------------
+
+TBD
+
+Technical Stuff (3)
+-------------------
+
+Why SQLAlchemy?
+
+* Database engine abstraction — we are using Postgres engine
+* Connection pooling, ORM, extensions
+* Easy schema migration through Alembic — except when using SQLite
+
 Help Us, Please!
 ================
 
