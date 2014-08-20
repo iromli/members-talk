@@ -93,9 +93,14 @@ The Future
 Technical Stuff
 ===============
 
-* Flask
-* Leaflet
-* SQLAlchemy
+* Flask_
+* Leaflet_
+* SQLAlchemy_
+
+.. _Flask: http://flask.pocoo.org/
+.. _Leaflet: http://leafletjs.com/
+.. _SQLALchemy: http://www.sqlalchemy.org/
+
 
 Technical Stuff (1)
 -------------------
