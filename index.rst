@@ -90,6 +90,13 @@ The Future
 
 * Et Cetera™
 
+The Tech Stack
+===============
+
+.. figure:: /_static/tech_stack.png
+   :scale: 130 %
+   :align: center
+
 Technical Stuff
 ===============
 
@@ -105,12 +112,27 @@ Technical Stuff
 Technical Stuff (1)
 -------------------
 
-TBD
+Why Flask?
+
+* Minimalism and Simplicity - We don't want too much overhead for such simple
+  requirement
+* Some said, `who likes ORM?`_
+* Some others said `Lovely Routing`_
+
+.. _who likes ORM?:  http://www.butenas.com/blog/why-flask/
+.. _Lovely Routing: http://www.reddit.com/r/Python/comments/1yr8v5/django_vs_flask/
 
 Technical Stuff (2)
 -------------------
 
-TBD
+Why Leaflet?
+
+* What's the option? `Google vs Leaflet vs OpenLayers`_
+* We want to use OpenStreetMap
+* Speed of development, flexibility, efficiency (OpenLayers ~ 1M is too much for
+  such requirement)
+
+.. _Google vs Leaflet vs OpenLayers: http://robinlovelace.net/software/2014/03/05/webmap-test.html
 
 Technical Stuff (3)
 -------------------
